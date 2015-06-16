@@ -1,0 +1,9 @@
+; Detail.def : Declares the module parameters for the DLL.
+
+
+LIBRARY    "Detail"
+
+EXPORTS
+    ; Explicit exports can go here
+
+StartDll				@1
